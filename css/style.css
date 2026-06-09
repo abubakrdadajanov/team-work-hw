@@ -11,6 +11,38 @@
 /* section 2 */
 
 /* section 3 */
+.nike-sport-h2 {
+  width: 500px;
+  height: 180px;
+  font-size: 50px;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.nike-sport-p {
+  width: 450px;
+  height: 96px;
+  font-size: 16px;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 15px;
+}
+
+.nike-sport-button {
+  width: 260px;
+  height: 51px;
+  background-color: #ea625c;
+  color: white;
+  border: none;
+}
+
+.nike-sport {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
 
 /* section 4 */
-
