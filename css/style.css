@@ -67,7 +67,33 @@ nav {
 }
 
 /* section 2 */
+.dv-sec {
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+}
+.dv-wd {
+  width: 280px;
+}
+.dv-wd h2 {
+  font-size: 18px;
+  width: 250px;
+}
+.dvv {
+  width: 280px;
+}
+.dvv h2 {
+  font-size: 18px;
+  width: 250px;
+}
 
+.div-cl {
+  width: 280px;
+}
+.div-cl h2{
+  font-size: 18px;
+width: 200px;
+}
 /* section 3 */
 .nike-sport-h2 {
   width: 500px;
